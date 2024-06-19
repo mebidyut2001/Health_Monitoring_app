@@ -49,9 +49,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ![WhatsApp Image 2024-06-03 at 20 35 10](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/0bb408a8-9349-4c8c-8887-18765b9d8f7e)
 
 ![WhatsApp Image 2024-06-03 at 19 31 01](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/fa36cc34-b609-4048-b445-4a65c1865f06)
-![WhatsApp Image 2024-06-03 at 19 31 01 (1)](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/2e529db4-c67e-4065-93bd-1f6eddf656b5)
-
-
 ![WhatsApp Image 2024-06-03 at 19 31 02](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/829a2aae-2ab0-4dab-91db-13e27e47caae)
+![WhatsApp Image 2024-06-03 at 19 31 01 (1)](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/2e529db4-c67e-4065-93bd-1f6eddf656b5)
 ![WhatsApp Image 2024-06-03 at 19 31 00](https://github.com/mebidyut2001/Health_Tracker_app/assets/145282059/bbe03287-157e-4e03-b1aa-1a1f3c180261)
 
